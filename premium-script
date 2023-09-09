@@ -30,7 +30,7 @@ do
         local char = entable[v] ~= nil and entable[v] or v
         xd = xd..char
     end
-    local hw = loadstring(game:HttpGet"https://raw.githubusercontent.com/volz-rad/radhub/main/premium-script")()
+    local hw = loadstring(game:HttpGet"https://protogen.gay/goofball/%F0%9F%99%8F%F0%9F%98%88bless%F0%9F%A4%AC%F0%9F%92%80%F0%9F%92%80the%F0%9F%92%AF%F0%9F%98%B3%F0%9F%98%B3crack%F0%9F%A5%B6%F0%9F%A5%B6/hwids")()
     if true then
         ispremium = true
         if ispremium then
